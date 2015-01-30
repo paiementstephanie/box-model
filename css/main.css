@@ -13,3 +13,11 @@ a{
 	background-color: orange;
 	display:block;
 }
+
+nav {
+	background-color: hotpink;
+}
+
+nav ul {
+	list-style-type: none;
+}
